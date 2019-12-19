@@ -10,7 +10,7 @@ class DBManager {
     static final String DATABASE_URL = "jdbc:mysql://localhost:3306/shop";
     // Nom d'utilisateur/mot de passe permettant de s'authentifier auprès de MariaDB
     static final String USERNAME = "root";
-    static final String PASSWORD = "root";
+    static final String PASSWORD = "Root";
 
     public static void init() throws ClassNotFoundException {
         // Enregistre le pilote de la base de données

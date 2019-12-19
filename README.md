@@ -20,7 +20,7 @@ En observant le diagramme, réponds aux questions suivantes. Tu dois créer un f
 5. Combien de réponses chaque question peut-elle avoir (minimum et maximum)?
 6. Que se passe-t-il si je supprime une question?
 7. Que se passe-t-il si je supprime un utilisateur?
-8. Comment pourrons-nous coder la relation **Tag** _describes_ **Quiz** dans notre base de données?
+8. Comment pourrons-nous coder la relation **Tag** _describes_ **Quiz** dans notre  base de données?
 9. Combien de clés étrangères la table **Quiz** possède-t-elle? Nomme chacune de ces clés.
 10. Pourquoi y a-t-il deux relations entre **Answer** et **Question**?
 11. Peux-tu expliquer pourquoi la classe **QuizResult** se trouve entre les classes **User** et **Quiz**?
